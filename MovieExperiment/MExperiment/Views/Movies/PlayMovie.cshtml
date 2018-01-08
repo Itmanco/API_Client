@@ -1,0 +1,26 @@
+﻿@model MExperiment.Models.Movie
+@{
+    ViewData["Title"] = "Movie Player";
+}
+<h2>Details</h2>
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.urlStreaming)
+        </dt>
+        <dd>
+            <div style="padding:10px;">
+                <iframe width="728"
+                        height="410"
+                        src="@Model.urlStreaming"
+                        frameborder="0"
+                        allowfullscreen></iframe>
+            </div>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

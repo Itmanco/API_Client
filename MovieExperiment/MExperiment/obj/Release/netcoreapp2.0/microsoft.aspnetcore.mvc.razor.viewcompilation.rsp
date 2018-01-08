@@ -1,0 +1,23 @@
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MExperiment
+--content-root=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Comments\Create.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Comments\Delete.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Comments\Details.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Comments\Edit.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Comments\Index.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Home\About.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Home\Contact.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Home\Index.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\Create.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\Delete.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\Details.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\Edit.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\Index.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Movies\PlayMovie.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Shared\Error.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Shared\_Layout.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\_ViewImports.cshtml
+--file=D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\Views\_ViewStart.cshtml

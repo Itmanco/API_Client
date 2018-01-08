@@ -1,0 +1,11 @@
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\bin\Release\netcoreapp2.0\MExperiment.deps.json
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\bin\Release\netcoreapp2.0\MExperiment.runtimeconfig.json
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\bin\Release\netcoreapp2.0\MExperiment.runtimeconfig.dev.json
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\bin\Release\netcoreapp2.0\MExperiment.dll
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\bin\Release\netcoreapp2.0\MExperiment.pdb
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\MExperiment.csproj.CoreCompileInputs.cache
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\MExperiment.AssemblyInfoInputs.cache
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\MExperiment.AssemblyInfo.cs
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\MExperiment.dll
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\workspace\MovieExperimentV2\MovieExperiment\MExperiment\obj\Release\netcoreapp2.0\MExperiment.pdb
