@@ -42,7 +42,7 @@ namespace MExperiment.Controllers
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                HttpResponseMessage response = await client.PutAsJsonAsync("api/putcomment?id=" + comment.IdVideo.ToString(), comment);
+                HttpResponseMessage response = await client.PostAsJsonAsync("api/putcomment?id=" + comment.IdVideo.ToString(), comment);
 
                 return RedirectToAction("Details", "Movies", new { id = comment.IdVideo.ToString() });
             }

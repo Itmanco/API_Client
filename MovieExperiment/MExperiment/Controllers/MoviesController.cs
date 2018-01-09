@@ -86,7 +86,7 @@ namespace MExperiment.Controllers
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                HttpResponseMessage response = await client.PutAsJsonAsync("api/putvideo?id=" + movie.IdVideo.ToString(), movie);               
+                HttpResponseMessage response = await client.PostAsJsonAsync("api/putvideo?id=" + movie.IdVideo.ToString(), movie);               
             }
             //--- END
 
@@ -143,7 +143,7 @@ namespace MExperiment.Controllers
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                    HttpResponseMessage response = await client.PostAsJsonAsync("api/updatevideo?id=" + movie.IdVideo.ToString(), movie);
+                    HttpResponseMessage response = await client.PutAsJsonAsync("api/updatevideo?id=" + movie.IdVideo.ToString(), movie);
                 }
             }
             return View(movie);
