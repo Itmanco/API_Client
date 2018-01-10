@@ -42,13 +42,30 @@
         </dd>        
     </dl>
 
+    <table class="table">
+        @{
+            int total = 0;
+            foreach (var item in Model.Rates)
+            {
+                total += item.Rate;
+            }
+            total = Model.Rates.Count() > 0 ? total / Model.Rates.Count() : 0;
+        }
+        <tr>
+            <td>Rates: @(Model.Rates.Count()) entries - Average: @(total)</td>
+        </tr>
+        <tr>
+            <a asp-controller="Rates" asp-action="Create" asp-route-id="@Model.IdVideo">Add Rate</a>
+        </tr>
+    </table>
+
     <dt>
         @Html.DisplayNameFor(model => model.Comments)
     </dt>
     <dd>
         <p>           
             <a asp-area="" asp-controller="Comments" asp-action="Create" asp-route-id="@Model.IdVideo">New Comment</a>
-        </p>
+        </p>        
         <table class="table">
             <tr>
                 <th>User</th>

@@ -1,12 +1,12 @@
-D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.csproj.CoreCompileInputs.cache
-D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
-D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.AssemblyInfoInputs.cache
-D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.AssemblyInfo.cs
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\bin\Debug\netcoreapp2.0\ClientAPI.deps.json
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\bin\Debug\netcoreapp2.0\ClientAPI.runtimeconfig.json
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\bin\Debug\netcoreapp2.0\ClientAPI.runtimeconfig.dev.json
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\bin\Debug\netcoreapp2.0\ClientAPI.dll
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\bin\Debug\netcoreapp2.0\ClientAPI.pdb
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.csprojResolveAssemblyReference.cache
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.csproj.CoreCompileInputs.cache
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.AssemblyInfoInputs.cache
+D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.AssemblyInfo.cs
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.dll
 D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.pdb
-D:\Centennial College\Centennial\Fall 2017\API Engineering and Cloud Computing\Assignments & Test\Final Project\API_Client\MovieExperiment\MExperiment\obj\Debug\netcoreapp2.0\ClientAPI.csprojResolveAssemblyReference.cache
