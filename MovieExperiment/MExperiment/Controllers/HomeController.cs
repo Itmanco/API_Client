@@ -2,7 +2,6 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MExperiment.Models;
-using MExperiment.ViewModels;
 using Microsoft.AspNetCore.Http;
 
 
@@ -51,15 +50,6 @@ namespace MExperiment.Controllers
         {  
             return View();
         }
-
-  
-        [HttpPost]
-        public async Task<IActionResult> Index(Form sendForm)
-        {
-                return View();
-        }
-        // [END cloud_storage]
-
 
 
     }
